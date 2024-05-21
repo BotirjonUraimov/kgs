@@ -39,9 +39,9 @@ Follow these steps to get your development environment running:
 
 ## Running the Application
 
-  **To run the application locally:**
-    ```bash
-    npm start
+   **To run the application locally:**
+      
+      npm start
 
 This will compile the TypeScript files and start the server on the port specified in your .env file (default is 3000). You can access the API at http://localhost:3000.
 
