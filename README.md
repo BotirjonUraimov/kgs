@@ -15,7 +15,7 @@ Follow these steps to get your development environment running:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BotirjonUraimov/kgs.git
+   git clone https://github.com/BotirjonUraimov/ksg.git
    cd ksg
 
 2. **Install dependencies:**
